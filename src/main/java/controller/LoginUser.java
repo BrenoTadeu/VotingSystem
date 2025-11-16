@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LoginUser {
 	Scanner input = new Scanner(System.in);
-	Database dataB = new Database("admin", "1234"); 
+	Database dataB = new Database("Julia", "0609");
 	int i;
 	public LoginUser() {
 		System.out.println("Realize o login para a votação");
