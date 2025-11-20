@@ -25,7 +25,7 @@ public class LoginUser {
 				System.out.println("Bloqueado temporariamente");
 				break;
 			}else {
-				System.out.println("User or Password incorret");
+				System.out.println("User or Password incorrect");
 				userT = inUser();
 				passT = inPass();
 			}
