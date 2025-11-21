@@ -1,1 +1,18 @@
 /bin/
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+target/
+
+# OS files
+*.DS_Store
+Thumbs.db

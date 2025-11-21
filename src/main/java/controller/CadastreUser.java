@@ -7,7 +7,7 @@ import java.io.IOException;
 public class CadastreUser {
 	Scanner input = new Scanner(System.in);
 	public CadastreUser() {
-		
+		System.out.println("Meus deus eu só quero que rode");
 	}
 	
 	public void CreateFileForBD() {
